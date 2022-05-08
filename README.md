@@ -1,11 +1,16 @@
 # Schedule-Your-Days
 <h1> Your typical workday scheduler. </h1>
 <p> I had fun completing this assignment, also thought to take a step further and create a "clear task" button, <p>
- <p> that allows the user to clear out a task if they were to change their mind. </p> 
+ <p> that allows the user to clear out a task if they were to change their mind. </p>
+ <p> I also decided to play with the styling a little bit as well. </p>
 
 
 
 <h2> Website Preview: </h2>
+
+![Untitled_ May 7, 2022 10_56 PM](https://user-images.githubusercontent.com/99054758/167279879-ddb7da37-4f43-49ed-aeaf-0ec18518b46f.gif)
+
+
 <h2> Website: </h2>
 CLICK LINK TO VISIT SITE: 
 <h2> User Story/Criteria: </h2>
