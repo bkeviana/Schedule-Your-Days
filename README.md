@@ -12,7 +12,8 @@
 
 
 <h2> Website: </h2>
-CLICK LINK TO VISIT SITE: 
+<a href="https://bkeviana.github.io/Schedule-Your-Days/"> CLICK TO VISIT SITE. </a>
+
 <h2> User Story/Criteria: </h2>
 <ul>
   <li> GIVEN I am using a daily planner to create a schedule </li>
